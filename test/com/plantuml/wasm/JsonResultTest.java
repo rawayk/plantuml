@@ -23,7 +23,7 @@ import net.sourceforge.plantuml.error.PSystemError;
 import net.sourceforge.plantuml.json.Json;
 import net.sourceforge.plantuml.json.JsonObject;
 import net.sourceforge.plantuml.preproc.Defines;
-//Modify test
+//Doug I need you to work on this section below.  Update MD file after for notes.
 class JsonResultTest {
 
 	@Test
