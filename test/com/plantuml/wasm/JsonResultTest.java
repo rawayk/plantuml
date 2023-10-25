@@ -1,4 +1,4 @@
-
+//Kennny I made my changes already 
 package com.plantuml.wasm;
 
 import static java.nio.charset.StandardCharsets.UTF_8;
