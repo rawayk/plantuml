@@ -89,6 +89,7 @@ class JsonResultTest {
 	}
 
 	@Test
+	//add info here from Kenny
 	public void testError() throws IOException {
 
 		final String text = "@startuml\nalicebob\n@enduml";
