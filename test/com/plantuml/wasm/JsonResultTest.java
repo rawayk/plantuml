@@ -1,4 +1,4 @@
-//Modify test
+
 package com.plantuml.wasm;
 
 import static java.nio.charset.StandardCharsets.UTF_8;
@@ -23,7 +23,7 @@ import net.sourceforge.plantuml.error.PSystemError;
 import net.sourceforge.plantuml.json.Json;
 import net.sourceforge.plantuml.json.JsonObject;
 import net.sourceforge.plantuml.preproc.Defines;
-
+//Modify test
 class JsonResultTest {
 
 	@Test
